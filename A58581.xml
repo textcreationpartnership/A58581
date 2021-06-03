@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great birth of man, or, The excellency of man's creation and endowments above the original of woman a poem / by M.S.</title>
+            <author>M. S.</author>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58581</idno><idno type="EEBO-CITATION">13605036</idno>
+  <idno type="VID">100745</idno>
+  <idno type="EEBO-PROQUEST">2248511995</idno>
+  
+            <idno type="STC">Wing S114A</idno>
+            <idno type="STC">ESTC R33900</idno>
+            <idno type="OCLC">13605036</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1046:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great birth of man, or, The excellency of man's creation and endowments above the original of woman a poem / by M.S.</title>
+                  <author>M. S.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.M. and sold by John Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"A reissue of the sheets of the first edition, 1686, with cancel t.p." -- NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100745:1"/>
+            <pb facs="tcp:100745:1"/>
+            <p>The GREAT BIRTH of MAN.</p>
+            <p>Or, The Excellency of Man's Creation and Endowments Above the Original of WOMAN.</p>
+            <p>A Poem.</p>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>By <hi>M. S.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed,</hi> August 7. 1686.</p>
+                        <closer>
+                           <signed>Roger L'Estrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. M.</hi> and Sold by <hi>John Taylor</hi> at the <hi>Ship</hi> in St. <hi>Pauls</hi> Church-yard. 1688.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100745:2"/>
+            <pb facs="tcp:100745:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Do not conceal my Name for fear of Criticks, for I have known so few of them good Poets, that I have no Cause to envy them, much less will their Snarling an<g ref="char:EOLhyphen"/>ger me, for I ever esteem'd that below my Anger, that was below my Envy. Nor is it that I think I have displeas'd <hi>the Female Sex,</hi> for the Prudent will own our Birth supe<g ref="char:EOLhyphen"/>rior to theirs, what seems Satyrical on them at the latter End, is only what we may suppose <hi>Adam</hi> had cause to say from the Treach'ry of <hi>Eve:</hi> But the true Reason of conceal<g ref="char:EOLhyphen"/>ing my self, is, That my Book was importun'd into the World before I had brought it to that Perfection which a second Review might have done. Nor thought I fit to ex<g ref="char:EOLhyphen"/>pose my Friends Names (who honour me with their Com<g ref="char:EOLhyphen"/>pliments at the Beginning) to that which I was not willing to be seen in my self; Therefore, <hi>Reader,</hi> judge of it ac<g ref="char:EOLhyphen"/>cording to thy Skill in Poetry, and the Ingenuity of thy Temper: But if thou wilt not prefer it to thy Friends, or encourage it Abroad, Know, I do not value my Self by the Sale of it, to the World, since a <hi>Bunyan</hi> may have more Editions than a <hi>Cowley.</hi>
+            </p>
+            <closer>
+               <signed>M. S.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100745:3"/>
+            <head>To my Friend on his Poem.</head>
+            <lg>
+               <l>ARise, my Muse, and take thy Lyre,</l>
+               <l>Whil'st thou art warmed with his Fire;</l>
+               <l>Catching the Notions which do throng</l>
+               <l>About his pow'rful, charming Tongue:</l>
+               <l>And sing his worth in his own Phrase,</l>
+               <l>For thine are all below his Praise.</l>
+            </lg>
+            <lg>
+               <l>Thy Lines, like Lovers Sighs, are soft,</l>
+               <l>Yet soar, with gilded wings, aloft!</l>
+               <l>A Majesty they bare Divine,</l>
+               <l>And Glory's in each Sentence shine.</l>
+            </lg>
+            <lg>
+               <l>When on your Verse I think, and You,</l>
+               <l>I bid the VVorld, a while, Adieu;</l>
+               <l>For to Celestial Joys, I'm caught,</l>
+               <l>And Pleasures much too big for Thought.</l>
+               <l>So full and crowded is your Brain,</l>
+               <l>Without one Line, or VVord in vain;</l>
+               <l>That it requires a nimble Flight,</l>
+               <l>To think as fast, as you can write.</l>
+               <l>But Friendship Flatt'ry denies,</l>
+               <l>And Virtue Parasites defies;</l>
+               <l>Then lest the World may think I raise,</l>
+               <l>(Who know you not) a flatt'ring Praise,</l>
+               <l>I'le force my Muse to stop her Rime,</l>
+               <l>And think, where speaking is a Crime.</l>
+            </lg>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100745:3"/>
+            <head>To his worthy Friend Mr. <hi>M. S.</hi> upon his Poem.</head>
+            <l>SIR, when your Verse and lofty Style I meet,</l>
+            <l>Numbers so great, and Concord heav'nly sweet;</l>
+            <l>Ravisht I am, the very Man you name,</l>
+            <l>What Passion e're you write, I feel the same.</l>
+            <l>And when of heav'nly Joys you write, I'd sware,</l>
+            <l>That all the while you wrote, your Self was there:</l>
+            <l>But when of those i'th' curst Abodes do dwell,</l>
+            <l>Pardon, my Friend, I thought you was in Hell:</l>
+            <l>So Dismally those Hellish Flames you paint,</l>
+            <l>Enough to bring a Trembling on a Saint.</l>
+            <l>When Blood'intents you write, you make me start,</l>
+            <l>And think I see a Dagger at my Heart.</l>
+            <l>But when with softer charming Language, You</l>
+            <l>Fall like the heav'nly Manna, or the Dew.</l>
+            <l>If <hi>Eve</hi>'s Temptations in such Pow'rs did dwell?</l>
+            <l>I cannot (Grandsire) think it strange you fell;</l>
+            <l>Nor could an Angel, almost, keep his Sphere,</l>
+            <l>And such a charming beaut'ous Creature hear.</l>
+            <l>In brief, You make the Reader what you please,</l>
+            <l>Torment him as you will, or give him Ease:</l>
+            <l>You swallow up his Soul, and Senses quite,</l>
+            <l>Whil'st he has pow'r to act but as you write.</l>
+            <closer>
+               <signed>
+                  <hi>R. L.</hi> of <hi>Lincolns-Inn.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100745:4"/>
+            <head>To the AƲTHOR.</head>
+            <lg>
+               <l>SIR, when your Noble Verse I read,</l>
+               <l>Upon the Starry Heav'ns I tread,</l>
+               <l>And Suns do shine about my Head.</l>
+            </lg>
+            <lg>
+               <l>They're Polisht all so Fair, and Bright,</l>
+               <l>Full of such Vigor, Heat, and Light,</l>
+               <l>All mixing Profit with Delight.</l>
+            </lg>
+            <lg>
+               <l>Sir like your Charming Self, they be,</l>
+               <l>Such Sweetness mixt with Majesty,</l>
+               <l>So full of sparkish Gayety.</l>
+            </lg>
+            <lg>
+               <l>That Heav'n did never yet Bestow,</l>
+               <l>Its Gifts more plent'ously below,</l>
+               <l>On any Minion than on you.</l>
+            </lg>
+            <lg>
+               <l>But since your Book conceals your Name,</l>
+               <l>If those Endowments I proclaim,</l>
+               <l>The World will know at whom I aim.</l>
+            </lg>
+            <closer>
+               <signed>J. D.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100745:4"/>
+            <head>To <hi>Mr.</hi> M. S.</head>
+            <l>SHould I pretend to sing your Praise,</l>
+            <l>'Twould more debase your Style, then Raise,</l>
+            <l>And with my Nonsence, all the world Amaze.</l>
+            <l>No Helicon does me Inspire,</l>
+            <l>Ile only warm me at your Fire,</l>
+            <l>And since I cann't Praise, stand still and admire.</l>
+            <closer>
+               <signed>T. R. of Grays-Inn.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>To his Friend Mr. M. S.</head>
+            <l>MY Friend, I'le not pretend the least your Praise,</l>
+            <l>Or any Monumental Trophys Raise;</l>
+            <l>The best Encomiums I could Sing, would be</l>
+            <l>Inferior much, both to thy Style, and Thee:</l>
+            <l>I'le ask thine Enemies what they can say,</l>
+            <l>And their Obscurity will Blaze thy Day:</l>
+            <l>Their blackest Envy, make The Brighter far,</l>
+            <l>Than Sable Night, can make a Glitt'ring Star.</l>
+            <l>And when the Infl'ence of their Envy's spent,</l>
+            <l>They shall Confess Thee, a Pure Ornament:</l>
+            <l>Acknowledge Thee in every thing Compleat,</l>
+            <l>An Humble Mind, with Actions Nobly Great.</l>
+            <closer>
+               <signed>T. S.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100745:5"/>
+            <head>To Mr. <hi>M. S.</hi>
+            </head>
+            <l>OF all things, Sir, I hate a Parasite,</l>
+            <l>Nor think it is t'advance your Book I write;</l>
+            <l>Or bring the least pretended Praise, to show</l>
+            <l>That your Illustrious Fame to Me you owe.</l>
+            <l>No: 'Tis Self-Int'rest drives me on, for I</l>
+            <l>Know those that live with you must never Dye:</l>
+            <l>My Ends I seek, not yours, when these I give,</l>
+            <l>'Cause in your Deathless Poems I would ever Live.</l>
+            <closer>
+               <signed>J. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:100745:5"/>
+            <head>The GREAT BIRTH of MAN: Or, The Excellency of Man's Creation and Endowments Above the Original of WOMAN.</head>
+            <lg>
+               <l>WHen from profound Abyss of endless Thought,</l>
+               <l>(Which all things always to Perfection brought)</l>
+               <l>Man (the great Object of Omnipotence,</l>
+               <l>A Soul inform'd with the Divinest Sence,</l>
+               <l>Made like a God, both Masculine, and Brave,</l>
+               <l>Design'd the Empire of the VVorld to have:)</l>
+               <l>VVas Form'd; the Universe strait Bow'd, to show</l>
+               <l>Th'Obedience to this God on Earth they ow.</l>
+               <l>Th' admiring Angels triumph'd with loud Airs,</l>
+               <l>To see a Shape Divine, join'd to a Soul like theirs.</l>
+               <pb n="2" facs="tcp:100745:6"/>
+               <l>A greater Minion to the Deity,</l>
+               <l>Capable of Reprieve, when they must be</l>
+               <l>Hav'ng Fallen Once, Damn'd to Eternity.</l>
+            </lg>
+            <lg>
+               <l>Thus did this Blissful Creature ev'rywhere,</l>
+               <l>Walk with Respect, through the perfumed Air:</l>
+               <l>Whil'st all the Creatures, Humble Subjects were.</l>
+               <l>The Grove's sweet Quiri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers with wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bling Throats,</l>
+               <l>Eccho Man's Glory, in Seraphick Notes</l>
+               <l>The Gen'rous Lyons, and the Gentle Fauns,</l>
+               <l>The Wolves, and Lambs upon the Verdant Lawns,</l>
+               <l>All Birds, which in the Aiery Main do fly,</l>
+               <l>And Fish, which nimbly cut the liquid Sky,</l>
+               <l>Join Sports so fine their Monarch to divert:</l>
+               <l>As if their Natures were advanc'd by Art.</l>
+               <l>The Fields with <hi>Flora</hi>'s Pride all cover'd were,</l>
+               <l>The Trees, Fruit-like, the Golden Ore did ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+               <l>The Tune-full wind his ravisht Spirits cheers,</l>
+               <l>Joins joyful Consort, to th' harmonious Spheres.</l>
+               <l>All Nature smil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with amicable Pride,</l>
+               <l>Immortal Love, and thousand Joys beside,</l>
+               <l>Whil'st He in unexhausted blest Delights,</l>
+               <l>Drinks down large Bowls of Pleasures Days and Nights.</l>
+               <l>Years hand in hand, with comely pace advance,</l>
+               <l>Nor pass they on, but in a measur'd Dance</l>
+               <l>Return again, for in Heav'ns mighty Rowl,</l>
+               <l>His Youth's design'd Immortal as his Soul.</l>
+               <l>The lofty Subject of his follow'ng Days,</l>
+               <l>Was to exalt th' Eternal Being's Praise:</l>
+               <pb n="3" facs="tcp:100745:6"/>
+               <l>Which he perform'd with such a Pride, and Fear,</l>
+               <l>As did become a Soul so great, and such a God to hear.</l>
+            </lg>
+            <lg>
+               <l>The mighty Thund'rer, from his lofty Throne,</l>
+               <l>Beheld the whole Creation, but found none,</l>
+               <l>So great an Object of his Love, as this</l>
+               <l>Extract of Forms, Heir to Celestial Bliss,</l>
+               <l>And said:</l>
+            </lg>
+            <lg>
+               <l>We Miriads have of Cherubins attend</l>
+               <l>Our spacious Throne, on ev'ry Errand send</l>
+               <l>Legions of Angels, but Man hath not yet</l>
+               <l>Attendants, which his mighty Birth do fit:</l>
+               <l>We'le make a Creature, but we'le not create,</l>
+               <l>Since Man consummates all th' intents of Fate:</l>
+               <l>And were the Birth like his, the growing Pride</l>
+               <l>Which still attends the Baser, would deride</l>
+               <l>His Sov'rain Sway, and that Priority,</l>
+               <l>Which always shews the Rights of Majesty.</l>
+               <l>Yet high'r than other Creatures, whom we'le call,</l>
+               <l>Woman, a Copy from th' Original.</l>
+            </lg>
+            <lg>
+               <l>Strait <hi>Adam</hi> sleeps, a well-spar'd Rib is wrought</l>
+               <l>Into a Creature, ne're till now in thought.</l>
+               <l>Thus was her Birth inferior much to show,</l>
+               <l>What great Submission to her Lord she'd ow.</l>
+               <l>His was a pure Creation, Hers alone</l>
+               <l>
+                  <hi>Species</hi> transform'd, a Woman from a Bone:</l>
+               <l>He's born immediately of God, her Birth</l>
+               <l>Is but from him, a little of his Earth:</l>
+               <pb n="4" facs="tcp:100745:7"/>
+               <l>Her Elements and Substance from him, He</l>
+               <l>Had all his Substance of the Deity:</l>
+               <l>Let us make Man (said God) and summon'd all</l>
+               <l>The mighty Powers which attend his Call:</l>
+               <l>But She, till all was perfect, was not known,</l>
+               <l>Made an Attendant, to Man's spacious Throne.</l>
+            </lg>
+            <lg>
+               <l>Man saw the Form, and though not perfect made</l>
+               <l>Like his, yet Speech, and Reason had, and said:</l>
+            </lg>
+            <lg>
+               <l>Since you our other Creatures do surmount,</l>
+               <l>VVe'le trust You Steward of Our great Account:</l>
+               <l>Tell you the Secrets of our Heart, and know</l>
+               <l>Of all the Trees, which in our Garden grow,</l>
+               <l>VVith Freedom taste, but that i'th' Middle stands,</l>
+               <l>Taste not, nor Touch, 'tis God's and our Commands.</l>
+               <l>The rest for Food, and Pleasure are more fit,</l>
+               <l>A certain Death about this Tree does sit.</l>
+               <l>He spake, She bow'd, and with Submission said,</l>
+               <l>My Sov'rain, your just Pleasure is obey'd;</l>
+               <l>They part, Man to extoll th' Eterna'ls Love,</l>
+               <l>And She to view the Pleasures of the Grove.</l>
+            </lg>
+            <lg>
+               <l>But thinks and wonders what this Fruit may be,</l>
+               <l>Longing to see this strange Forbidden Tree:</l>
+               <l>I see no Fruit but what's Divinely Fair,</l>
+               <l>Fit for such Trees, th'Almighty plants to bare:</l>
+               <l>But where's this dismal Tree, this fatal Fruit,</l>
+               <l>That ugly Death should lurk about the Root.</l>
+               <pb n="5" facs="tcp:100745:7"/>
+               <l>I am forbidden, therefore long to know,</l>
+               <l>O that some unknown Pow'r, would quickly show,</l>
+               <l>Free from Man's Sight, I'd fear not Death's poor strife,</l>
+               <l>My Face, and Features should secure my Life!</l>
+            </lg>
+            <lg>
+               <l>There is a Place beneath the solid Earth,</l>
+               <l>Lower than where the Min'rals have their birth:</l>
+               <l>Beneath deep Caverns, hid from <hi>Titan</hi>'s Eye,</l>
+               <l>Where fierce <hi>Aeolian</hi> Tyrants, Chained lye:</l>
+               <l>Beneath the silent Chambers of the Dead,</l>
+               <l>And deepest Caves, where cruel Satyrs Tread:</l>
+               <l>Beneath th' Originals of deepest Fountains,</l>
+               <l>Beneath the Sea's large Floor, and Roots of Mountains:</l>
+               <l>It is the Palace, and the Curst Abodes,</l>
+               <l>Of <hi>Lucifer,</hi> and all th' Infernal Gods:</l>
+               <l>Banisht for Towring Pride, Celestial Thrones,</l>
+               <l>And Damn'd to Tortures, and Eternal Grones.</l>
+               <l>With scorching Pangs, through Fiery Darkness, they</l>
+               <l>Roul, and Blaspheme the smallest glympse of Day.</l>
+               <l>Screechings, and Howls are all the Musick there,</l>
+               <l>Groans too severe for Flesh and Blood to bare:</l>
+               <l>With startling Horror, Crown'd, and mad Despair.</l>
+               <l>Strong sulph'rous Stenches, with their loathsome Smell,</l>
+               <l>Enough to make the purest Air a Hell.</l>
+               <l>Hot scalding Rivers, fill'd with liquid Fire:</l>
+               <l>And Souls to suffer, which can ne'r Expire.</l>
+               <l>Then are they plung'd in Snow and Ice all o're,</l>
+               <l>Reeking with Heat, and sweating Drops of Gore.</l>
+               <pb n="6" facs="tcp:100745:8"/>
+               <l>The Grand Usurper of Angelick Race</l>
+               <l>By Birth, but now without one Mark of Grace:</l>
+               <l>The Empire of these Regions ever held,</l>
+               <l>Since he against the only Great Rebell'd.</l>
+               <l>With vast expanded Pride, He and the Rest,</l>
+               <l>Dare the Immortals Thund'rers Throne Molest:</l>
+               <l>Attempting Sov'raignty, and scorn'd their Ods,</l>
+               <l>All would be Fiends, if all could not be Gods.</l>
+               <l>Heav'ns angry Monarch, with dread Thunder Hurl'd</l>
+               <l>These desp'rate Fiends, into th' Infernal World:</l>
+               <l>Since which, they envy those lost Thrones, and try</l>
+               <l>To Damn the rest, by cursed Treachery.</l>
+            </lg>
+            <lg>
+               <l>Whilst <hi>Lucifer</hi> Observ'd the World Above,</l>
+               <l>And found the Object of Eternal Love:</l>
+               <l>Brave Gen'rous Man, but knew it was in vain,</l>
+               <l>To tempt his Constancy, his Wiser Brain,</l>
+               <l>Would search each black Design, with prying Eyes,</l>
+               <l>Find the most deep Intreague, through each Disguise.</l>
+               <l>His Sacrifices, whilst his Heart ne'r stray'd,</l>
+               <l>With Blest Acceptance, ev'ry day he pay'd:</l>
+               <l>Gladly receiv'd what e're his Maker Taught,</l>
+               <l>Nor would Transgress so much as in his Thought.</l>
+            </lg>
+            <lg>
+               <l>But when he'd Woman found, he soon did spye</l>
+               <l>Her Lustful Heart, and Longings of her Eye.</l>
+               <l>Her Liqu'rish Palate, loving what was Gay,</l>
+               <l>With sprightly Birds, and pretty Lambs would Play:</l>
+               <pb n="7" facs="tcp:100745:8"/>
+               <l>Seek fragrant Smells, and then she'd fall in Love</l>
+               <l>With her own Face, whilst in some shady Grove,</l>
+               <l>Making a Mirrour of a Fountain, where</l>
+               <l>Sh'd kiss her Shade, and curl her Silver Hair.</l>
+               <l>Longing for things Forbid, nor 'll be deny'd:</l>
+               <l>And what most pleas'd the Fiend, She was all Pride.</l>
+               <l>Said He, this easie softness never can</l>
+               <l>Withstand Temptations, like more solid Man.</l>
+            </lg>
+            <lg>
+               <l>A Serpents Form he took, the Comel'est shape</l>
+               <l>Heav'n suffer'd, that it might prevent a Rape:</l>
+               <l>Heav'n knew that Beauty easily would Charm,</l>
+               <l>This hid'ous Monster might Her Soul Alarm.</l>
+               <l>The Fiend Blasphemes to have a shape so foul;</l>
+               <l>Seeing his ugly Carcass after Roul:</l>
+               <l>My Plots (said he) are Damn'd, but Hold, I'le Try,</l>
+               <l>'Tis Woman, Foolish VVoman, she shall Dye.</l>
+            </lg>
+            <lg>
+               <l>Strait leaves these loathsome Regions, to repair</l>
+               <l>To Paradice, and breath the vernal Air.</l>
+               <l>The Garden enters, all the Place looks sad;</l>
+               <l>Birds fall down Dead before him, Beasts run mad:</l>
+               <l>Th' Earth where he rouls, all scorch't, and poison'd seems</l>
+               <l>And sulph'rous Vapours, belches out in streams.</l>
+               <l>His Eyes are Flames, his Jaws look black and pale;</l>
+               <l>And in Huge Circles, drags his Thund'ring Tail.</l>
+               <l>The VVoman startled at a Shape so Foul;</l>
+               <l>Her Body for a while, dismist her Soul.</l>
+               <pb n="8" facs="tcp:100745:9"/>
+               <l>When it return'd, said She, VVhat Monstrous Birth,</l>
+               <l>Art thou that comest to Pollute the Earth?</l>
+               <l>From what Black Shades? VVith that his dismal Jawes</l>
+               <l>Divide, and from his Trunk a horrid noise:</l>
+               <l>I'm come, said he, to ease your Longing Eyes;</l>
+               <l>To shew the Tree, where all Perfection Lyes.</l>
+               <l>The Tree Forbid. O where? said She;</l>
+            </lg>
+            <sp>
+               <speaker>Serp.</speaker>
+               <l>Behold!</l>
+               <l>The Tree i'th' midst, which shines like beaten Gold.</l>
+            </sp>
+            <sp>
+               <speaker>Wom.</speaker>
+               <l>Is that the Tree which looks so Lovely? Where,</l>
+               <l>Pale Death lies couchant, Poysons Center'd are?</l>
+               <l>My greedy Eyes did long to See, but more</l>
+               <l>I Long to Taste, than did to See before.</l>
+               <l>Oh how it Tempts? But Ah my Destiny!</l>
+               <l>I must not Taste the Fruit, for fear I Dye.</l>
+            </sp>
+            <sp>
+               <speaker>Serp.</speaker>
+               <l>Dye? Aye you will, a most delicious Death,</l>
+               <l>Dye? so's to double ev'ry blast of Breath.</l>
+               <l>You'll more Immortal be by Eating This;</l>
+               <l>Quenching your Appetite with Rapes of Bliss.</l>
+               <l>Quaff with large Gusts, the Essence of Delight:</l>
+               <l>And be more Heav'nly Fair, more Heav'nly Bright.</l>
+               <l>Your present Form, you will Excel, as Far</l>
+               <l>As Heav'ns Illustrious Lamp, a little Star.</l>
+               <l>You'll leave dull Earth, for a Celestial Throne:</l>
+               <l>And Reign of Heav'n the Glorious Queen alone.</l>
+               <l>Perfumes more Fragrant hourly, than the East</l>
+               <l>In Thousand years can give, you'll Smell and Tast</l>
+               <l>Rich Nectar from full Clusters, all Divine,</l>
+               <l>Of Grapes, which in the Heav'nly Vineyard Shine.</l>
+               <pb n="9" facs="tcp:100745:9"/>
+               <l>Play with the <hi>Phaenix,</hi> and such Birds as are</l>
+               <l>Plum'd with the Rainbows Colours, but more fair.</l>
+               <l>Imbroider'd Fields, Groves Damask'd with bright Beams,</l>
+               <l>Banks all Enamel'd, and transparent Streams.</l>
+               <l>Your Trains will drag with 'thousand Stars, while they</l>
+               <l>VVho'le bear them up, are Angels bright as day.</l>
+               <l>Taste ev'ry Rapture of the Joys Above,</l>
+               <l>And Tall, Bright Gods, will make Immortal Love</l>
+               <l>Th' Injoyment of that Love will:</l>
+            </sp>
+            <sp>
+               <speaker>Wom.</speaker>
+               <lg>
+                  <l>O forbear,</l>
+                  <l>My Soul as yet's not big enough to hear:</l>
+                  <l>Thô too large for its Prison 't does appear.</l>
+                  <l>Methinks I'm mounted on th'Imperial Seat,</l>
+                  <l>And Crowns and Scepters play about my Feet.</l>
+                  <l>And now I tread the spangled Milky way,</l>
+                  <l>And bring where e're I come, Illustrious Day.</l>
+                  <l>Cherubins curl my Golden Locks, whilst I</l>
+                  <l>Command Attendants, with my sparkling Eye.</l>
+                  <l>Beauty enjoy to that height of Excess,</l>
+                  <l>As Gods can give, for I'll accept no less.</l>
+                  <l>Alas! Poor <hi>Adam,</hi> now I shall be more</l>
+                  <l>Your Soverain, than you was mine before.</l>
+                  <l>Your narrow Soul, like mine, durst not Aspire,</l>
+                  <l>Nor is't compos'd of such a Noble Fire.</l>
+                  <l>I wisely at the first, begin to know:</l>
+                  <l>My younger days, a riper Judgment show;</l>
+                  <l>And what my future, swelling Joys excell;</l>
+                  <l>I ever shall be young, and ever thus shall Dwell.</l>
+                  <l>Dig on, Poor Man, nor shall you know our Ods,</l>
+                  <l>VVel keep our distance, like our Fellow Gods.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:100745:10"/>
+                  <l>This said, She clim'd the Tree, more swift than Thought,</l>
+                  <l>And down the fairest, largest Apple brought:</l>
+                  <l>Eats it with greediness, when soon, Alas!</l>
+                  <l>Away these Gilded, Airy Visions, pass.</l>
+                  <l>Her Eyes are open'd, finds Her self undon,</l>
+                  <l>Sees Her Immortal Thread is almost spun.</l>
+                  <l>Ah Fool! What Happiness thou'st lost for Toyes,</l>
+                  <l>What solid Good, for visionary Joys?</l>
+                  <l>T'affront that God, which made Thee of a Bone,</l>
+                  <l>For such a Worm, to Crawl upon his Throne.</l>
+                  <l>My Beauty's blasted, all my Honor's fled,</l>
+                  <l>My Glory's gone, m'ambitious Spirit's Dead.</l>
+                  <l>O! whither shall I fly, where seek for Aid,</l>
+                  <l>What sad retreat, more dark than Hell's black shade?</l>
+                  <l>Will cover my vile Soul? that Heav'n mayn't find</l>
+                  <l>A Body curst, with such a wretched Mind</l>
+                  <l>Sharp thrilling Terrors, pierce my wounded Soul</l>
+                  <l>Mountains of Sorrow's on my Spirits roul.</l>
+                  <l>My Heart with Anguish bursts, my Head with Cares,</l>
+                  <l>I'm rackt with Horrors, Plung'd in deep despairs.</l>
+                  <l>Undone, Forlorn, Forsaken, and Accurst:</l>
+                  <l>Come, Fiends assist me, now I'le do the worst</l>
+                  <l>Hell can inspire me with, To Man I'le goe,</l>
+                  <l>And for a while dissemble all my woe.</l>
+                  <l>He's Inn'cent yet; my treach'rous Tongue shall try▪</l>
+                  <l>To make him equal in the Villany.</l>
+                  <l>Nay, all Hell's Pow'rs I challenge to design,</l>
+                  <l>
+                     <hi>A</hi> Plot so Black, so Base, so Damn'd as mine.</l>
+                  <pb n="11" facs="tcp:100745:10"/>
+                  <l>I'le Gild each poison'd Pill, till He's Took All,</l>
+                  <l>Then laugh to see him Part'ners in the Fall.</l>
+               </lg>
+               <lg>
+                  <l>Now crack ye Poles, unhinge ye Heav'ns, and shake</l>
+                  <l>Ye mighty Arches, let the whole World Quake:</l>
+                  <l>In Sable Clouds, stand still O Sun, and Mourn;</l>
+                  <l>Let Mountains from their Roots, with Storms be torn.</l>
+                  <l>The Ocean with its weighty Billows Roar,</l>
+                  <l>Tumbling in heaps upon the groaning Shoar,</l>
+                  <l>To see a Prodigy, so vilely great,</l>
+                  <l>Baffles the Blood'st Birth of Pregnant Fate.</l>
+                  <l>
+                     <hi>A</hi> Crime, that Hell it self might blush to own:</l>
+                  <l>
+                     <hi>A</hi> Crime till now, amongst the Damn'd not known.</l>
+                  <l>That One should ruine a whole World, and bring</l>
+                  <l>Curses on All, and Death's severest sting.</l>
+                  <l>That Woman, when through Lust and Pride she'd lost</l>
+                  <l>All that could Comfort and Enjoyment boast:</l>
+                  <l>Rather than to repent her Sin, should try</l>
+                  <l>T'undo Man too, by 'er Hellish Treachery.</l>
+                  <l>Curse all Her Offspring, Nay to act a Deed,</l>
+                  <l>Which after, made the God of Nature Bleed.</l>
+               </lg>
+               <lg>
+                  <l>Prepare now <hi>Adam,</hi> Hell and Earth design</l>
+                  <l>Thy Sacrifice, and Pray'rs to countermine.</l>
+                  <l>Thy Soul is wrapt in Sacred Innocence,</l>
+                  <l>Guilty of no Ambition, or Pretence</l>
+                  <l>To any's Int'rest, but thy Makers, while</l>
+                  <l>In Blest Returns, the Gracious Heav'ns do smile.</l>
+                  <pb n="12" facs="tcp:100745:11"/>
+                  <l>Thou seest the Honour of Submission, where,</l>
+                  <l>Angels themselves are proud to have a share.</l>
+                  <l>Hatest the foul Contagion of a Thought,</l>
+                  <l>Which mayn't be to bright Virtues Touchstone brought.</l>
+               </lg>
+               <lg>
+                  <l>To add a Comfort to thy foll'wing Days,</l>
+                  <l>Thy God hath made a Helper, which may raise</l>
+                  <l>Thy bright Devotion, a free Agent, who</l>
+                  <l>Hath Pow'r to be as Innocent as you.</l>
+                  <l>What mighty Transports of refreshing Joy,</l>
+                  <l>Dost thou expect, Poor Man, from this frail Toy.</l>
+                  <l>Mistaken <hi>Adam,</hi> She's Lost all, Undone</l>
+                  <l>Betwixt a Morning and an Ev'ning Sun.</l>
+                  <l>Her treach'rous M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lice too, hath blackned more</l>
+                  <l>Her Soul, than Hell, and Lust, and Pride before.</l>
+                  <l>A Cup of Poison charged to the brim,</l>
+                  <l>She's now preparing, though above may swim</l>
+                  <l>Fair Gilded Bubbles, Glor'ous, Bright and Gay,</l>
+                  <l>A Pleasant Prologue, to a Tragick Play.</l>
+               </lg>
+               <lg>
+                  <l>Her Looks She pleasantly composes, while</l>
+                  <l>Her Rosie Cheeks are dimpled to a Smile.</l>
+                  <l>Her Beaut'ous Hair, with Careless Artful Pride</l>
+                  <l>Is loosely spread, and all her Charms beside,</l>
+                  <l>Most vig'rous made, t'assault Man's Thoughtless Heart</l>
+                  <l>Fearing no Hurt, 'cause Guilt of no ill Art.</l>
+                  <l>Her Tongue, that Magazine of Dagger, where</l>
+                  <l>Base Murders, Treach'rous Falshoods, harbor'd are,</l>
+                  <l>Is smoothly Oil'd, that charming cursed Cheat,</l>
+                  <l>Pecul'ar to the Sex, must do the Feat.</l>
+                  <pb n="13" facs="tcp:100745:11"/>
+                  <l>O gilded Sepulcher! O fair Outside!</l>
+                  <l>VVhat Sin and Rotteness within dost hide.</l>
+               </lg>
+               <lg>
+                  <l>Thus with like haste She flyes, to Man, or more,</l>
+                  <l>Than when She climb'd the fatal Tree before.</l>
+                  <l>And said:</l>
+               </lg>
+               <lg>
+                  <l>My dearest Master, what Varieties</l>
+                  <l>Of pleasant Objects, bless our wand'ring Eyes?</l>
+                  <l>VVhat heaps of Blessings, ev'rywhere we see,</l>
+                  <l>Gifts of a good, and bount'ous Deity?</l>
+                  <l>Mellifluous Groves, such pleasant Fruit do bare,</l>
+                  <l>And Blossoms, which perfume the wanton Air.</l>
+                  <l>Rich Plains, with fragrant Flow'rs, and painted Pride,</l>
+                  <l>Bright Streams, with thousand Pleasures more beside.</l>
+                  <l>The humble Flocks and Herds with wonder view</l>
+                  <l>Their glorious Sov'rain, which, sweet Sir, is You.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>'Tis true, we find the great Effects each where</l>
+               <l>Of our great Master's fervent Love and Care.</l>
+               <l>VVhat ravish'd Hallelujahs should we sing,</l>
+               <l>To be such Subjects of so good a King?</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>And all so Loyally do kiss your Shrine,</l>
+               <l>As if they all had Souls, inform'd like mine,</l>
+               <l>VVhich is s'intirely yours, without all Art,</l>
+               <l>VVho'd rip out Duty, must rip up my Heart.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>VVhen I alone dwelt on the spacious Earth,</l>
+               <l>Before your beaut'ous Innocence had Birth:</l>
+               <l>I was all Happiness, but now have more,</l>
+               <l>From your sweet L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yal Love, than all before.</l>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:100745:12"/>
+               <speaker>Eve.</speaker>
+               <l>Your dut'ous Carriage to your mighty Lord,</l>
+               <l>Does me so rich a Precedent afford,</l>
+               <l>My Heart may Bears and cruel Monsters tear,</l>
+               <l>VVhen <hi>Adam,</hi> dearest <hi>Adam,</hi> is not there.</l>
+               <l>Nay more, then what a greater Curse can't be,</l>
+               <l>Soul of my Life, may'st thou ne're think on me.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>My days thus spent in innocent delight,</l>
+               <l>Ye Heav'ns, what Joys you bless me with at Night.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>But if such Pleasure here we have in Love,</l>
+               <l>VVhat mighty Raptures they enjoy above?</l>
+               <l>If Earthly Paradice so pleasant is,</l>
+               <l>Then what an Extasy is Heav'nly Bliss?</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>As when some Mountain, on a Cottage rouls,</l>
+               <l>So would those Pleasures overwhelm our Souls.</l>
+               <l>VVe are not capable to think, much less</l>
+               <l>To taste Enjoyment of so vast Excess.</l>
+               <l>'Tis Happiness enough, for us to know</l>
+               <l>The joyful Blessings we receive below.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Last Ev'ning when the Hills long shadows cast,</l>
+               <l>The Air refresht with now, and then a Blast;</l>
+               <l>In the cool shades, on flow'ry Grass I lay,</l>
+               <l>To see the Kids and Lambs together play:</l>
+               <l>Soon by the gentle murm'rings of the Streams,</l>
+               <l>I fell asleep, and had these pleasant Dreams.</l>
+               <l>Methoughts I'd VVings, and flew above the Clouds,</l>
+               <l>Met glor'ous Angels in transparent Shrouds:</l>
+               <pb n="15" facs="tcp:100745:12"/>
+               <l>Said they, what Ign'rance makes you thus disgrace</l>
+               <l>The Constitution of your God-like Race?</l>
+               <l>Your Birth is Noble, though th'Improvement Base.</l>
+               <l>What clogs your Soul? 'tis Elemental Fire,</l>
+               <l>Give it but Leave, like Ours, it will aspire.</l>
+               <l>I wak'd, and though I found it but a Dream,</l>
+               <l>Methoughts the Subject was a pleasant Theam;</l>
+               <l>And shew our Souls related were to theirs,</l>
+               <l>(If suffer'd to enlarge) above the Spheres.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>
+                  <hi>Eve,</hi> you mistake the Cause, that Transport is</l>
+               <l>Only the sweet Effects of present Bliss</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Not so, my Lord, for soon the Truth I knew,</l>
+               <l>The Dreams, like Oracles, I did pursue:</l>
+               <l>And bring thee joyful News, will make you more</l>
+               <l>Above your Self, than 'bove the Beasts before.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>With what glad Tydings do'st my Soul surprize,</l>
+               <l>Did God accept my morning Sacrifice?</l>
+               <l>Indeed the VVind my Incense seem'd to bare,</l>
+               <l>VVith swelling Streams, through the perfum'd Air,</l>
+               <l>The Sky serene, all happy <hi>Omens,</hi> while</l>
+               <l>The Heav'ns, to shew Acceptance, seem'd to smile.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Better: Thou shalt no more i'th' Garden lurk,</l>
+               <l>To dig the Ground <hi>[Adam]</hi> hath God found other work:</l>
+               <l>Whate're his Pleasure is, my Soul's resign'd,</l>
+               <l>T' observe the Dictates of his blessed Mind.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Nor that: Thou know'st a fatal Tree there is,</l>
+               <l>Not to be Touch'd, without the loss of Bliss.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>'Tis true: <hi>[Eve]</hi> But hath not God made all things Good?</l>
+               <l>'Tis Nought if useless, sure't must be for Food:</l>
+               <pb n="16" facs="tcp:100745:13"/>
+               <l>If so, the Fallen Ange<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s never can</l>
+               <l>Enter a Place so Sacred made to Man.</l>
+               <l>Then it must be the blessed Angels Meat,</l>
+               <l>Such as the glor'ous Cherubins do eat.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>No <hi>Eve,</hi> 'tis Poyson, deadly Poyson, where</l>
+               <l>Death, and all other Evils harbor'd are.</l>
+               <l>And were it not a certain Evil, He</l>
+               <l>Who gave so large, would ne're deny a Tree.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Why did not He, whose Love's to Man so pure,</l>
+               <l>This evil Tree by fenced Walls secure?</l>
+               <l>That Man might not be Tempted, when it might</l>
+               <l>As easily been Planted, out of sight.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>He's planted Walls, his strict Commands, those Pow'rs,</l>
+               <l>To the Obedient, are the strongest Tow'rs.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>An Evil must defective be; He said,</l>
+               <l>He saw his Works, and saw all Perfect made.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>The like Perfection may be in this Tree,</l>
+               <l>The Crime may onely Disobedience be:</l>
+               <l>And, this excepted, He forbids us None;</l>
+               <l>Sure for a Thousand, we may give Him One.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>I rather think, when God had made the Soul,</l>
+               <l>To try if any Threatnings would controul</l>
+               <l>So great a Being, Gen'rous, Free, and Brave,</l>
+               <l>How like it self, it self it would behave:</l>
+               <l>Thus try'd his Boldness, to see how refin'd,</l>
+               <l>From his gross Body, was his God-like Mind.</l>
+               <l>Say should I try?</l>
+            </sp>
+            <sp>
+               <speaker>[Adam]</speaker>
+               <l>Let not a Thought so foul,</l>
+               <l>For thousand Worlds, Immaculate your Soul.</l>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:100745:13"/>
+               <speaker>Eve.</speaker>
+               <l>Why <hi>Adam,</hi> What were you the worse for this?</l>
+               <l>If I Fall, 'twill but more confirm your Bliss;</l>
+               <l>But Fall I can't, Heav'n never hath design'd,</l>
+               <l>A Fault so small, the Ruine of Mankind.</l>
+               <l>Who such a Noble Work, as Man, begun,</l>
+               <l>Won't for One Apple, see him quite undone.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>We must not in his secret Councels pry,</l>
+               <l>It is enough, He said, <hi>You'le surely Dye.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>But what's this Death?</l>
+            </sp>
+            <sp>
+               <speaker>[Adam]</speaker>
+               <l>It is a Curse, which will</l>
+               <l>Loathsom Corruption, through your Blood, instill:</l>
+               <l>Consume your Limbs, your Face turn black, and foul,</l>
+               <l>And Fear and Horror seize your Guilty Soul.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>How look I now?</l>
+            </sp>
+            <sp>
+               <speaker>[Adam]</speaker>
+               <l>All Glorious, Bright, and Gay,</l>
+               <l>Sweet as the Morning, Innocent as Day.</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>See <hi>Adam</hi> then your fond Mistake, for I,</l>
+               <l>Ventur'd the Fruit, and found the Fallacy:</l>
+               <l>Ventur'd the seeming Threatnings of dark Fate,</l>
+               <l>Not out of Pride, but Dear, to make thee Great.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>Eat of the Fruit, which in the Middle stands,</l>
+               <l>Not to be Touch'd, by Gods and our Commands?</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <lg>
+                  <l>I eat the Fruit, If Faith your Eyes you'le give,</l>
+                  <l>You see I'm Fair, and Innocent, and live.</l>
+                  <l>Nay, my enlarged Soul, you see, aspires,</l>
+                  <l>Cherisht and fed with much Diviner Fires.</l>
+                  <l>'Tis on the wing, I hate my earthly Clod,</l>
+                  <l>And onely stay, to make Thee too, a God.</l>
+                  <l>This is the Fruit which God, and Angels eat,</l>
+                  <l>This is the great <hi>Ambrosia,</hi> Heav'nly Meat.</l>
+                  <pb n="18" facs="tcp:100745:14"/>
+                  <l>The Tree which Knowledge gives, and that which can</l>
+                  <l>Make an Immortal God, of Noble Man.</l>
+                  <l>God therefore hath Forbid'n, well did he know,</l>
+                  <l>Eating this Fruit, we'd scorn to dwell below,</l>
+                  <l>Claiming Celestial Thrones, there'd be no Ods,</l>
+                  <l>We also should be numbred 'mongst the Gods.</l>
+               </lg>
+               <lg>
+                  <l>He fright'ned us with dreadful Death, alone</l>
+                  <l>To keep off Rivals, from his Sacred Throne.</l>
+                  <l>And would persuade the meanness of our Birth;</l>
+                  <l>Pretending you was Made of common Earth,</l>
+                  <l>When 'twas of heav'nly Seed, which fell below,</l>
+                  <l>And will aspire, when It begins to know.</l>
+                  <l>And I Made of a Bone, but had you been</l>
+                  <l>Awake, it might confirm my Birth so mean.</l>
+                  <l>Then Taste, Bold Man, and grow a God like me,</l>
+                  <l>Taste, and for ever Great, and Glorious be.</l>
+               </lg>
+               <lg>
+                  <l>You'le cease to be a Gard'ner here, and fly</l>
+                  <l>On marbled Clouds, above the starry Sky.</l>
+                  <l>Tread the arch'd Roofs of Heav'n, refulgent, bright,</l>
+                  <l>VVith Raptures, and ineffable Delight.</l>
+                  <l>The Spheres, in ravisht Notes, will sound your Praise,</l>
+                  <l>Your Youth be as Immortal, as your Days;</l>
+                  <l>Angels, to You, will Hallelujahs sing,</l>
+                  <l>And May continue, with eternal Spring.</l>
+                  <l>VVisdom will flow like the unbounded Main,</l>
+                  <l>And sacred Raptures, from your pregnant Brain.</l>
+                  <pb n="19" facs="tcp:100745:14"/>
+                  <l>Mir'ads of Cherubins attend your Crown,</l>
+                  <l>And the high-sounding Sphears with Eccho's drown.</l>
+                  <l>Command the Magazines of Hail and Snow,</l>
+                  <l>Send as you please your Thunderbolts below.</l>
+                  <l>Whilst Heav'n and Earth Obey your Sacred Nod:</l>
+                  <l>And thus you'll grow a perfect Glorious God.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>Your Soul seems strang'ly inspir'd with news so Great,</l>
+               <l>And you already out of reach of Fate.</l>
+               <l>But how can you retard your Heav'nly Joy,</l>
+               <l>And with dull Earth, your soaring Spirit cloy?</l>
+            </sp>
+            <sp>
+               <speaker>Eve.</speaker>
+               <l>Crown of my Glory, Soul of my Delight,</l>
+               <l>Who has to all m' Enjoyments, Truest Right:</l>
+               <l>For whom at first I ventur'd Soul, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</l>
+               <l>To raise Thee, or secure Thee from a Fall:</l>
+               <l>The cause of my Delaying's only This,</l>
+               <l>To take Thee with me to those Flouds of Bliss.</l>
+               <l>I should a stranger to those Joys appear,</l>
+               <l>Nor'd Heav'n be Heav'n, and Dearest thou not there.</l>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <l>Of such great Kindness, Constancy and Love,</l>
+               <l>None can be capable, but Souls above.</l>
+               <l>Such Raptures show a Mind inspir'd from Heav'n.</l>
+               <l>Her Face more Bright and charming Looks, and then</l>
+               <l>Her spotless Soul most innocent appears,</l>
+               <l>So far from Death, she seems not toucht with fears.</l>
+               <l>Besides, my wise Creator, thought fit She,</l>
+               <l>A Helper should, as well as Comfort be.</l>
+               <pb n="20" facs="tcp:100745:15"/>
+               <l>Perhaps indulgent Heav'n, design'd in this,</l>
+               <l>By Her to help me to th'Eternal Bliss.</l>
+               <l>I'll venture on it, but say, should I Dye?</l>
+            </sp>
+            <sp>
+               <speaker>Eve;</speaker>
+               <lg>
+                  <l>You see a Precedent before your Eye:</l>
+                  <l>Then quickly Taste, the Tree is fresh and green,</l>
+                  <l>At Night 't may Dye, and never more be seen.</l>
+               </lg>
+               <lg>
+                  <l>This said, his trembling Hands, the fatal Meat</l>
+                  <l>She gave, and with Embraces forc'd to Eat:</l>
+                  <l>His Eyes as soon are op'ned, up he starts,</l>
+                  <l>His Soul seems struck, and pierc'd with thousand Darts.</l>
+                  <l>A shiv'ring seizes all his Limbs, His Face</l>
+                  <l>Looks Pale, and Black with Sadness, and Disgrace.</l>
+                  <l>Heav'ns former Kindnesses his Soul upbraid:</l>
+                  <l>Whilst to the VVorlds Great Murd'rer thus he said:</l>
+               </lg>
+               <lg>
+                  <l>Hah <hi>Eve!</hi> is this Your Zeal to me, and Love?</l>
+                  <l>Is this Your Heav'n, and Happiness Above?</l>
+                  <l>These the effects of your Embraces, while</l>
+                  <l>My cheated Heart was charmed with a smile?</l>
+                  <l>Is this the hazard of your Soul, for me?</l>
+                  <l>Is this your Faith, and Truth, and Constancy?</l>
+                  <l>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h VVom n! and is this your Company?</l>
+                  <l>Better Companions much were Beasts, for then</l>
+                  <l>I might not 'ave seen a cursed Race of Men.</l>
+                  <l>I was all Happiness before your Birth,</l>
+                  <l>Enjoy'd with Pleasure all the spacious Earth;</l>
+                  <l>All Creatures Honesty, with Faith repaid,</l>
+                  <l>Nothing in Nature false, till You was made.</l>
+                  <pb n="21" facs="tcp:100745:15"/>
+                  <l>Those Blissful Days have left me now forlorn,</l>
+                  <l>Betray'd by Her, who from my Side was Born;</l>
+                  <l>So near my Heart, and yet so false to prove?</l>
+                  <l>So treach'rous to such Const<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncy of Love.</l>
+                  <l>Nor am I only ruin'd to your shame,</l>
+                  <l>But future Worlds will Curse your Blasted Name.</l>
+               </lg>
+               <lg>
+                  <l>O! for thy sake, that Mankind ne're had Bin,</l>
+                  <l>Nor Earth, polluted with so gross a Sin:</l>
+                  <l>Or that my Body would to Atomes turn,</l>
+                  <l>Rather than still to Live, and still to Mourn.</l>
+                  <l>My days must now draw Out in tedious Grief,</l>
+                  <l>Nor anger'd Heav'n, will stoop to give Relief:</l>
+                  <l>No Never, Never, Can I look for more</l>
+                  <l>Heav'ns Cheering Smiles, and Favours as before.</l>
+                  <l>But still in some dark Grove's obscurest VValk,</l>
+                  <l>VVith Melancholy Sadness, ever stalk,</l>
+                  <l>Till to my former Earth, I turn, and go,</l>
+                  <l>VVith Sorrow to th'Infernal Shades below.</l>
+               </lg>
+               <lg>
+                  <l>This said, the awful roaring Thunder broke,</l>
+                  <l>The trembling Heav'ns, and thus th' Eternal spoke;</l>
+                  <l>VVhere art Thou Man?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>[Adam.]</speaker>
+               <lg>
+                  <l>I found my self Undon,</l>
+                  <l>And to the Thickets for a shelter Run,</l>
+                  <l>To Hide from thy Just VVrath, Great God, for She</l>
+                  <l>Thou Gavest, Tempt'd me to the fatal Tree.</l>
+                  <l>Said God: And since you'l condescend to Hear,</l>
+                  <l>Your Subject Creature, henceforth shall you Tear</l>
+                  <l>The Rocky Earth, with Pain, and Sweaty Brow:</l>
+                  <l>And Thorns and Thistles ev'ry where shall grow.</l>
+                  <pb n="22" facs="tcp:100745:16"/>
+                  <l>But thou, O Woman! since thou dar'st Disgrace,</l>
+                  <l>Our Noble Image, and our Godlike Race:</l>
+                  <l>To Tempt Beloved Man, his Faith to stain,</l>
+                  <l>Thou shalt indure intolerable pain,</l>
+                  <l>Thy Pleasure shall be dearly bought, for when</l>
+                  <l>We please to Multiply our stock of Men:</l>
+                  <l>As often as thou giv'st a Being Breath,</l>
+                  <l>So often shalt thou feel the Pangs of Death.</l>
+                  <l>And since your mean Posterious Birth could not,</l>
+                  <l>Keep your Presumptious Mind, from such a Plot:</l>
+                  <l>Know 'tis our Pleasure, Ratifi'd in Heav'n,</l>
+                  <l>Strickest Obedience you shall pay to Men.</l>
+                  <l>All your desires, in his just Pow'r shall rest,</l>
+                  <l>To suffer, as his Judgment thinks it best.</l>
+                  <l>'Tis our Command, who Grasp the VVorlds great Ball,</l>
+                  <l>That Man shall be the Sov'rain Lord of all.</l>
+               </lg>
+               <lg>
+                  <l>But Man, we'll nere forget our former Love,</l>
+                  <l>VVhich in the midst of Judgment still does move;</l>
+                  <l>I'll send my Son, who though a Deity,</l>
+                  <l>Shall suffer Deaths severest Pangs for Thee:</l>
+                  <l>Taking thy Shape, and Sex upon him, thus</l>
+                  <l>As thou the Lively Image bear'st of Us,</l>
+                  <l>One VVoman too we'll Honour, from the Earth,</l>
+                  <l>VVhose Heav'n toucht VVomb, shall give this Saviour Birth,</l>
+                  <l>And thus we will renew our League with Man,</l>
+                  <l>And give him Heav'n, although here but a Span.</l>
+               </lg>
+               <lg>
+                  <l>He spake, the Heav'ns with Holy Anthems sound,</l>
+                  <l>Repeating Ecchoes, Sacred Noises Drown.</l>
+                  <pb n="23" facs="tcp:100745:16"/>
+                  <l>All places with Mans Happiness do Ring:</l>
+                  <l>VVhilst all the Hosts of Heav'n do Hallelujahs Sing.</l>
+               </lg>
+               <lg>
+                  <l>Thus Man again resumes his Glory, all</l>
+                  <l>The Blessings he enjoy'd before the Fall.</l>
+                  <l>Looking on <hi>Eve,</hi> by whom he was betray'd,</l>
+                  <l>To future Worlds, this Caveat left, and say'd;</l>
+               </lg>
+               <lg>
+                  <l>Take heed Posterity, and Learn from Me,</l>
+                  <l>What dangerous Treach'rys in false VVomen be.</l>
+                  <l>Secure your selves by Countermining Arts,</l>
+                  <l>Lest they blow up, or else betray your Hearts.</l>
+                  <l>Take heed, for when, like Crocodiles, their Tears</l>
+                  <l>Do gently Fall, then's greatest cause of Fears:</l>
+                  <l>Then their deceitful Hearts design a Prey,</l>
+                  <l>And in the midst of seeming pity Slay.</l>
+                  <l>And if they Charm you once within their Pow'r,</l>
+                  <l>They'll sweetly Sing, like Syrens, to Devour.</l>
+               </lg>
+               <lg>
+                  <l>That Pride which cast down <hi>Lucifer</hi> from Heav'n,</l>
+                  <l>And was by Foolish <hi>Eve</hi> renew'd again,</l>
+                  <l>VVill ever in depraved VVoman Reign.</l>
+                  <l>Nor their Ambition, shall whole VVorlds suffice,</l>
+                  <l>Nay Hell as soon be Glutted, as their Eyes:</l>
+                  <l>Through Blood and Sacriledge, 'twill make its way,</l>
+                  <l>And be as Violent as the Raging Sea.</l>
+                  <l>They'll long for things because they are deny'd,</l>
+                  <l>To shew their Folly's equal with their Pride:</l>
+                  <l>Excepting where some mischiefs the intent,</l>
+                  <l>Then VVomans sharper VVit, does Mans prevent;</l>
+                  <pb facs="tcp:100745:17"/>
+                  <l>Their being practis'd in such wicked Arts,</l>
+                  <l>Gives the advantage to their weaker Parts.</l>
+                  <l>Take heed (my future Sons) or you'l too late,</l>
+                  <l>VVith dear Experience, buy your Heavy Fate.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
